@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "xDD" << endl;
+    cout << "ta mere" << endl;
     cout <<"le git march xdddd"<<endl;
     return 0;
 }
